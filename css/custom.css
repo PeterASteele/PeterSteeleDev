@@ -1,0 +1,23 @@
+html, 
+body {
+    height: 100%;
+}
+img { max-width: 100%; height: auto; }
+
+.topbuttons {
+    text-align: center;
+    line-height: 48px;
+  }
+
+.bodytext {
+    color: #EBEBEB;
+}
+
+#SITE_HEADER {
+    background-color:  #FFFFFF;
+}
+
+#SITE_BODY {
+    background-color:  #000000;
+    min-height:100%;
+}
